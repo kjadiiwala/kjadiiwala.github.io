@@ -77,21 +77,11 @@
 塞班论坛测试测试
 Syntax highlighted code block
 测试测试测试
+###Markdown
+来来来额哈哈哈哈额鹅鹅鹅
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown（添加的是一个框框）
-Syntax highlighted code block
-
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-3. hello_world
 
 # 请注意这个是测试的S60
 **这个是测试的S40**
