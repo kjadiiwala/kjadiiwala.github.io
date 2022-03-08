@@ -70,28 +70,20 @@
 
 教程留着备用
 只需要一部分关键的
-/*1.#是标题*/
-## Welcome to GitHub Pages
-/*1.太牛逼了
-2.专业户牛逼
-3.这是随便搞的
-4.Using Just For Test Only
-You can use the [editor on GitHub](https://github.com/kjadiiwala/kjadiiwala.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.*/
+1.#是标题
+1. 这种是一排一排的
+之后就是标记，比如
+```markdown
+塞班论坛
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```markdown（添加的是一个框框）
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-##### 测试一下，你们看好了
-# 我皮一下
+
 
 - Bulleted
 - List
