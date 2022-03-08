@@ -75,7 +75,8 @@
 之后就是标记，比如
 ```markdown
 塞班论坛测试测试
-
+Syntax highlighted code block
+测试测试测试
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
